@@ -1,7 +1,7 @@
 cowfiles
 ========
 
-ASCII cowfiles for cowsay
+Additional ASCII cowfiles for cowsay
 
-
-Forked and adding more.  THese seem hard to find
+More information:
+http://en.wikipedia.org/wiki/Cowsay
