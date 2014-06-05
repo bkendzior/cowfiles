@@ -1,13 +1,11 @@
 ##cowfiles
-========
 
 Additional ASCII cowfiles for cowsay
 
 More information:
 http://en.wikipedia.org/wiki/Cowsay
 
-###cowsayfortune
-========
+####cowsayfortune
 
 If you have [fortune](http://en.wikipedia.org/wiki/Fortune_(Unix)) installed, here is a simple bash function that you can place in your .bashrc that will give you a useful quip from a funky cow.
 
