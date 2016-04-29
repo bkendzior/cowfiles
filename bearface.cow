@@ -1,6 +1,7 @@
 ##
 ## acsii picture from http://www.ascii-art.de/ascii/ab/bear.txt
 ##
+$eye = chop($eyes);
 $the_cow = <<EOC;
  $thoughts
   $thoughts
@@ -8,7 +9,7 @@ $the_cow = <<EOC;
     : (\\ ". _......_ ." /) :
      '.    `        `    .'
       /'   _        _   `\\
-     /     0}      {0     \\
+     /     $eye}      {$eye     \\
     |       /      \\       |
     |     /'        `\\     |
      \\   | .  .==.  . |   /
