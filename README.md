@@ -6,7 +6,11 @@ Additional ASCII cowfiles for [cowsay](http://en.wikipedia.org/wiki/Cowsay).
 First, download and install `cowsay`.
 
 - OSX: `brew install cowsay`
-- GNU/Linux: `sudo apt-get install cowsay`, `pacman -S cowsay`, `dnf install cowsay`, etc.
+- GNU/Linux:
+    - Debian based distros (Ubuntu): `sudo apt-get install cowsay`
+    - Arch based distros: `pacman -S cowsay` 
+    - RHEL/CentOS based distros: `dnf install cowsay`
+    - OpenSUSE: `zypper install cowsay`
 
 Next, you need to place the cowfiles somewhere that `cowsay` can locate them. I recommend creating a `.cowsay` folder under your home directory. Clone the contents of this repo in that folder:
 
