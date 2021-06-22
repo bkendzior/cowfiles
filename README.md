@@ -18,7 +18,7 @@ Next, you need to place the cowfiles somewhere that `cowsay` can locate them. I 
 
 Now, add the new folder to your $COWPATH environment variable. Append this line to your shell's configuration file (.bashrc, .zshrc, .cshrc).
 
-    COWPATH="$COWPATH:$HOME/.cowsay"
+    COWPATH="$COWPATH:$HOME/.cowsay/cowfiles"
 
 ## As MOTD
 If you have [`fortune`](http://en.wikipedia.org/wiki/Fortune_(Unix)) installed, here is a simple bash function that you can place in your shell's appropriate dotfile (bashrc, zshrc, cshrc) that will give you a useful quip from a funky cow whenever you open a new terminal session.
